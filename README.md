@@ -20,8 +20,8 @@ Workshop 2 journées sur Azure Container Apps
 -   [Lab 9](/Lab_9/README.md) : Pipeline _revisions_
 -   [Lab 10](/Lab_10/README.md) : Environnement privé
 -   [Lab 11](/Lab_11/README.md) : Déploiement via Terraform
+-   [Lab 12](/Lab_12/README.md) : Monitoring avec Azure Managed Grafana
 -   Synthèse et tour de table
-
 
 
 ## Informations utiles
@@ -40,3 +40,6 @@ https://www.linkedin.com/pulse/under-surface-azure-container-apps-christophe-par
 
 Lab avec application Java
 https://quarkus.io/quarkus-workshops/super-heroes/index-azure.html
+
+Lab avec dapr
+https://github.com/Azure/reddog-containerapps

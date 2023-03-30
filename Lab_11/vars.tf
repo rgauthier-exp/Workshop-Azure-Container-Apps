@@ -63,10 +63,11 @@ variable "containerAppsName" {
   default     = "containerapps1"
 }
 
+#  The revision mode must be either Single or Multiple
 variable "revisionMode" {
     description = "The revision mode of the Container Apps in which to create the resources."
     type        = string
-    default     = "Single"
+    default     = "Multiple"
     validation {
         condition     = var.revisionMode == "Single" || var.revisionMode == "Multiple"
         error_message = "The revision mode must be either Single or Multiple."

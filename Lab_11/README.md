@@ -37,3 +37,7 @@ terraform apply
 Aller prendre un café avec vos amis et collègues
 
 Dans le portail Azure aller vérifier les objets créés. Rechercher la présence d'un resource group MC_...., regarder ce qu'il contient
+
+## Nettoyage ou pas 
+
+Conserver le déploiement pour le Lab_12
